@@ -1,5 +1,4 @@
 
-
 # Legendary C#
 
 Fortnite build downloader for the OG community. A C# rewrite of [legendary](https://github.com/legendary-gl/legendary),
